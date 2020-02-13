@@ -4,8 +4,10 @@ Es una hola mundo echo con Go que tiene el archivo `Dockerfile` para poder Docke
 
 Ejecutar con Go
 ------------------
+``` sh
 > go build .\hello.go
 > .\hello.exe
+```
 
 Ejecutar con Docker
 ------------------
